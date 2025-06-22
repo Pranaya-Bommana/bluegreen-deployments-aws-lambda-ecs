@@ -39,7 +39,7 @@ Improved confidence in shipping to production
 
 ## Architecture Diagram
 
-![Blue/Green Deployment Diagram](diagrams/bluegreen-lambda-ecs.png)
+![Blue/Green Deployment Diagram](bluegreen-lambda-ecs.png)
 
 ## Notes
 
